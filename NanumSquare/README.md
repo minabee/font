@@ -2,9 +2,6 @@
 
 # 나눔스퀘어(NanumSquare)
 
-<a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/NanumSquare/NanumSquare.jpg" alt="NanumSquare" style="width:300px">
-</a>
 <pre>
 @font-face {
     font-family: 'NanumSquare';
