@@ -1,7 +1,5 @@
 # NanumSquare
 
-# 나눔스퀘어(NanumSquare)
-
 <pre>
 @font-face {
     font-family: 'NanumSquare';
